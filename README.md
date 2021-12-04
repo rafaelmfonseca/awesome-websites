@@ -43,3 +43,10 @@ Awesome lists of interesting websites.
 - [Mthds](https://mthds.co/) - UX/UI Patterns
 - [Nicely done](https://nicelydone.club/) - Nicely done is a library of UX/UI design examples from web apps.
 - [UXArchive](https://uxarchive.com/) - UXArchive the world's largest library of mobile user flows. Be inspired to design the best user experiences.
+
+# Useful for programmers
+- [Hidden Tools](https://hiddentools.dev/) - Discover a collection of tools
+- [musicForProgramming](https://musicforprogramming.net) - A collaborative series of mixes designed for listening while programming (compatible with other activities)
+- [HTTP Cats](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
+- [Iconscout](https://iconscout.com) - Download 3.7 Million+ high-quality free vector Icons, Illustrations, 3D assets, and Lottie Animations that are available in static & animated formats at Iconscout.
+- [onelang.io](https://ide.onelang.io/) - OneLang is a tool which helps writing code in multiple langauges at the same time.
