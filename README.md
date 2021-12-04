@@ -49,7 +49,14 @@ Awesome lists of interesting websites.
 - [SCRNSHTS](https://scrnshts.club/) - A hand-picked collection of the finest app store design screenshots
 - [User Onboarding](https://www.useronboard.com/) - The ultimate source for User Onboarding teardowns, tips, & thoughts!
 - [Figma Freebies](http://www.figmafreebi.es/) - Figma Freebies is a collection of design resources for the figma community.
-
+- [Muzli Design Inspiration](https://muz.li/) - Designers' Secret Source: all the design inspiration you need. Served fresh.
+- [Simple icons](https://simpleicons.org/) - 2110 Free SVG icons for popular brands.
+- [uifaces.co](https://uifaces.co/) - Avatars for design mockups
+- [Land-book](https://land-book.com/) - Web design gallery with hand-picked website design examples.
+- [LottieFiles](https://lottiefiles.com/) - Free Lottie Animation Files, Tools & Plugins
+- [Kaboompics](https://kaboompics.com/) - Find the best free stock images. Download all images and use them in your projects.
+- [Get Waves](https://getwaves.io/) - Create SVG waves for your next design
+- 
 # Useful for programmers
 - [Hidden Tools](https://hiddentools.dev/) - Discover a collection of tools
 - [musicForProgramming](https://musicforprogramming.net) - A collaborative series of mixes designed for listening while programming (compatible with other activities)
