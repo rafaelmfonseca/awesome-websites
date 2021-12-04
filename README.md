@@ -35,7 +35,7 @@ Awesome lists of interesting websites.
 - [Firebase](https://firebase.google.com/) - Firebase - Google
 - [Heroku](https://www.heroku.com/) - Heroku: Cloud Application Platform
 
-# Design
+## Design
 - [Screenlane](https://screenlane.com/) - Web & mobile UI design inspiration
 - [Design Vault](https://designvault.io/) - Design Vault is a curated library of screenshots & UI interaction patterns from the world's best digital products.
 - [Flomo](https://www.flomo.design/) - User flows collection of successful products.
@@ -57,7 +57,7 @@ Awesome lists of interesting websites.
 - [Kaboompics](https://kaboompics.com/) - Find the best free stock images. Download all images and use them in your projects.
 - [Get Waves](https://getwaves.io/) - Create SVG waves for your next design
 - 
-# Useful for programmers
+## Useful for programmers
 - [Hidden Tools](https://hiddentools.dev/) - Discover a collection of tools
 - [musicForProgramming](https://musicforprogramming.net) - A collaborative series of mixes designed for listening while programming (compatible with other activities)
 - [HTTP Cats](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
