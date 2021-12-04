@@ -43,6 +43,12 @@ Awesome lists of interesting websites.
 - [Mthds](https://mthds.co/) - UX/UI Patterns
 - [Nicely done](https://nicelydone.club/) - Nicely done is a library of UX/UI design examples from web apps.
 - [UXArchive](https://uxarchive.com/) - UXArchive the world's largest library of mobile user flows. Be inspired to design the best user experiences.
+- [Happy Hues](https://www.happyhues.co/) - See color palette inspiration on a real example website.
+- [Design System Checklist](https://www.designsystemchecklist.com/) - An open-source checklist to help you plan, build and grow your design system.
+- [Humane by Design](https://humanebydesign.com/) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
+- [SCRNSHTS](https://scrnshts.club/) - A hand-picked collection of the finest app store design screenshots
+- [User Onboarding](https://www.useronboard.com/) - The ultimate source for User Onboarding teardowns, tips, & thoughts!
+- [Figma Freebies](http://www.figmafreebi.es/) - Figma Freebies is a collection of design resources for the figma community.
 
 # Useful for programmers
 - [Hidden Tools](https://hiddentools.dev/) - Discover a collection of tools
