@@ -34,3 +34,12 @@ Awesome lists of interesting websites.
 - [Google Cloud](https://cloud.google.com/) - Google Cloud: Cloud Computing Services
 - [Firebase](https://firebase.google.com/) - Firebase - Google
 - [Heroku](https://www.heroku.com/) - Heroku: Cloud Application Platform
+
+# Design
+- [Screenlane](https://screenlane.com/) - Web & mobile UI design inspiration
+- [Design Vault](https://designvault.io/) - Design Vault is a curated library of screenshots & UI interaction patterns from the world's best digital products.
+- [Flomo](https://www.flomo.design/) - User flows collection of successful products.
+- [lookup.design](https://lookup.design/) - Browse handpicked ui and ux design examples and find inspiration for your next website or app.
+- [Mthds](https://mthds.co/) - UX/UI Patterns
+- [Nicely done](https://nicelydone.club/) - Nicely done is a library of UX/UI design examples from web apps.
+- [UXArchive](https://uxarchive.com/) - UXArchive the world's largest library of mobile user flows. Be inspired to design the best user experiences.
