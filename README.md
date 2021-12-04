@@ -50,3 +50,7 @@ Awesome lists of interesting websites.
 - [HTTP Cats](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [Iconscout](https://iconscout.com) - Download 3.7 Million+ high-quality free vector Icons, Illustrations, 3D assets, and Lottie Animations that are available in static & animated formats at Iconscout.
 - [onelang.io](https://ide.onelang.io/) - OneLang is a tool which helps writing code in multiple langauges at the same time.
+- [BuiltWith Technology Lookup](https://builtwith.com/) - Web technology information profiler tool. Find out what a website is built with.
+- [PageSpeed Insights](https://pagespeed.web.dev/) - PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
+- [Bundlephobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
+- [Poet.so](https://poet.so/) - Capture and share Twitter posts as beautiful images.
