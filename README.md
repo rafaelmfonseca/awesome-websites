@@ -13,6 +13,7 @@ Awesome lists of interesting websites.
 - [Modern JavaScript Tutorial](https://javascript.info/) : The Modern JavaScript Tutorial
 - [JavaScript in Plain English](https://javascript.plainenglish.io/) : New JavaScript and Web Development content every day.
 - [Maina Wycliffe](https://mainawycliffe.dev) : A Byte of Typescript - Software Engineer, Tech Speaker and Writer, OSS, and Mentor.
+- [Andrew Rosário](https://andrewrosario.medium.com/) : Desenvolvedor Front-end na Shift.
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
