@@ -14,6 +14,7 @@ Awesome lists of interesting websites.
 - [JavaScript in Plain English](https://javascript.plainenglish.io/) : New JavaScript and Web Development content every day.
 - [Maina Wycliffe](https://mainawycliffe.dev) : A Byte of Typescript - Software Engineer, Tech Speaker and Writer, OSS, and Mentor.
 - [Andrew Rosário](https://andrewrosario.medium.com/) : Desenvolvedor Front-end na Shift.
+- [AppDividend ](https://appdividend.com/) : AppDividend provides latest Code Tutorials on various fields like Data science in Machine Learning, Python, and AI.
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
