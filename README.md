@@ -59,7 +59,8 @@ Awesome lists of interesting websites.
 - [LottieFiles](https://lottiefiles.com/) - Free Lottie Animation Files, Tools & Plugins
 - [Kaboompics](https://kaboompics.com/) - Find the best free stock images. Download all images and use them in your projects.
 - [Get Waves](https://getwaves.io/) - Create SVG waves for your next design
-- 
+- [UpLabs](https://www.uplabs.com/) - Unlimited UI Kits, Icons, Templates, Themes and More
+
 ## Useful for programmers
 - [Hidden Tools](https://hiddentools.dev/) - Discover a collection of tools
 - [musicForProgramming](https://musicforprogramming.net) - A collaborative series of mixes designed for listening while programming (compatible with other activities)
