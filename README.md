@@ -15,6 +15,7 @@ Awesome lists of interesting websites.
 - [Maina Wycliffe](https://mainawycliffe.dev) : A Byte of Typescript - Software Engineer, Tech Speaker and Writer, OSS, and Mentor.
 - [Andrew Rosário](https://andrewrosario.medium.com/) : Desenvolvedor Front-end na Shift.
 - [AppDividend ](https://appdividend.com/) : AppDividend provides latest Code Tutorials on various fields like Data science in Machine Learning, Python, and AI.
+- [Webtips](https://www.webtips.dev/) : Get your weekly dose of webtips on the world of web technologies - Learn about web development with bite-sized tutorials
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
