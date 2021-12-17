@@ -16,6 +16,7 @@ Awesome lists of interesting websites.
 - [Andrew Rosário](https://andrewrosario.medium.com/) : Desenvolvedor Front-end na Shift.
 - [AppDividend ](https://appdividend.com/) : AppDividend provides latest Code Tutorials on various fields like Data science in Machine Learning, Python, and AI.
 - [Webtips](https://www.webtips.dev/) : Get your weekly dose of webtips on the world of web technologies - Learn about web development with bite-sized tutorials
+- [Pav Creations](https://pavcreations.com/) : Combining computer graphics with programming to create interesting applications, visualisations and games!
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
