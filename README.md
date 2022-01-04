@@ -18,6 +18,7 @@ Awesome lists of interesting websites.
 - [Webtips](https://www.webtips.dev/) : Get your weekly dose of webtips on the world of web technologies - Learn about web development with bite-sized tutorials
 - [Pav Creations](https://pavcreations.com/) : Combining computer graphics with programming to create interesting applications, visualisations and games!
 - [Exception Not Found](https://exceptionnotfound.net/) : .NET, C#, JavaScript, ASP.NET Core, web tech, standards, stories, and more!
+- [Daniel Ilett](https://danielilett.com/) : Games | Shaders | Tutorials
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
