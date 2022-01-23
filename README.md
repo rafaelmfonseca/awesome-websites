@@ -19,6 +19,7 @@ Awesome lists of interesting websites.
 - [Pav Creations](https://pavcreations.com/) : Combining computer graphics with programming to create interesting applications, visualisations and games!
 - [Exception Not Found](https://exceptionnotfound.net/) : .NET, C#, JavaScript, ASP.NET Core, web tech, standards, stories, and more!
 - [Daniel Ilett](https://danielilett.com/) : Games | Shaders | Tutorials
+- [Shay Rojansky](https://www.roji.org/) : Microsoft software engineer working on .NET data access and perf, member of the Entity Framework team.
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
