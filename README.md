@@ -76,3 +76,5 @@ Awesome lists of interesting websites.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
 - [Bundlephobia](https://bundlephobia.com/) - Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
 - [Poet.so](https://poet.so/) - Capture and share Twitter posts as beautiful images.
+- [TexturePacker](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
+- [FREE TEXTURE PACKER](https://free-tex-packer.com/app/) - Free texture packer - sprite sheets for games and sites
