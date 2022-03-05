@@ -20,6 +20,7 @@ Awesome lists of interesting websites.
 - [Exception Not Found](https://exceptionnotfound.net/) : .NET, C#, JavaScript, ASP.NET Core, web tech, standards, stories, and more!
 - [Daniel Ilett](https://danielilett.com/) : Games | Shaders | Tutorials
 - [Shay Rojansky](https://www.roji.org/) : Microsoft software engineer working on .NET data access and perf, member of the Entity Framework team.
+- [Oleksii Holub](https://tyrrrz.me/blog) : Blog | Oleksii Holub
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
