@@ -80,3 +80,4 @@ Awesome lists of interesting websites.
 - [Poet.so](https://poet.so/) - Capture and share Twitter posts as beautiful images.
 - [TexturePacker](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
 - [FREE TEXTURE PACKER](https://free-tex-packer.com/app/) - Free texture packer - sprite sheets for games and sites
+- [GitFichas](https://gitfichas.com/) - Fichas de estudo sobre Git em Português BR
