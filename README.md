@@ -22,6 +22,7 @@ Awesome lists of interesting websites.
 - [Shay Rojansky](https://www.roji.org/) : Microsoft software engineer working on .NET data access and perf, member of the Entity Framework team.
 - [Oleksii Holub](https://tyrrrz.me/blog) : Blog | Oleksii Holub
 - [Stephen Cleary's blog](https://blog.stephencleary.com/) : async/await, programming, language design, and other sundry computer science topics.
+- [Dor Moshe's Blog](https://dormoshe.io/newsletters/) : Newsletters Catalog - Dor Moshe's Blog
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
