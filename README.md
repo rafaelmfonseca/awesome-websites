@@ -23,6 +23,7 @@ Awesome lists of interesting websites.
 - [Oleksii Holub](https://tyrrrz.me/blog) : Blog | Oleksii Holub
 - [Stephen Cleary's blog](https://blog.stephencleary.com/) : async/await, programming, language design, and other sundry computer science topics.
 - [Dor Moshe's Blog](https://dormoshe.io/newsletters/) : Newsletters Catalog - Dor Moshe's Blog
+- [Valchan](https://valchan.com.br/) : Valchan
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
