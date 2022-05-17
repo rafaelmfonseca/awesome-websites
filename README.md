@@ -24,6 +24,8 @@ Awesome lists of interesting websites.
 - [Stephen Cleary's blog](https://blog.stephencleary.com/) : async/await, programming, language design, and other sundry computer science topics.
 - [Dor Moshe's Blog](https://dormoshe.io/newsletters/) : Newsletters Catalog - Dor Moshe's Blog
 - [Valchan](https://valchan.com.br/) : Valchan
+- [Fritz on the Web](https://jeffreyfritz.com/) : My little corner of the web, full of my point of view. (.NET)
+- [Igor Popov](https://igorpopov.io/) : Igor's website, a place where he writes about software development. (.NET)
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
