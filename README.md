@@ -26,6 +26,7 @@ Awesome lists of interesting websites.
 - [Valchan](https://valchan.com.br/) : Valchan
 - [Fritz on the Web](https://jeffreyfritz.com/) : My little corner of the web, full of my point of view. (.NET)
 - [Igor Popov](https://igorpopov.io/) : Igor's website, a place where he writes about software development. (.NET)
+- [Rafael dos Santos](https://rafaeldossantos.net/) : Rafael dos Santos, Microsoft Azure MVP, especialista em desenvolvimento web/cloud.
 
 ## Style guides
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : JavaScript Style Guide
