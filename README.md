@@ -77,6 +77,7 @@ Awesome lists of interesting websites.
 - [Hidden Tools](https://hiddentools.dev/) - Discover a collection of tools
 - [musicForProgramming](https://musicforprogramming.net) - A collaborative series of mixes designed for listening while programming (compatible with other activities)
 - [HTTP Cats](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
+- [Bucketlist Dream of the Day API](https://bucketlist.nl/samenwerken#droom-van-de-dag) - Free, keyless daily JSON travel and life-experience inspiration with CORS; content defaults to Dutch and linked activity bookings can be paid.
 - [Iconscout](https://iconscout.com) - Download 3.7 Million+ high-quality free vector Icons, Illustrations, 3D assets, and Lottie Animations that are available in static & animated formats at Iconscout.
 - [onelang.io](https://ide.onelang.io/) - OneLang is a tool which helps writing code in multiple langauges at the same time.
 - [BuiltWith Technology Lookup](https://builtwith.com/) - Web technology information profiler tool. Find out what a website is built with.
